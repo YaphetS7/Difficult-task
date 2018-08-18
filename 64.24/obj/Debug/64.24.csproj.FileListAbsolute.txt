@@ -1,0 +1,7 @@
+c:\users\user\source\repos\64.24\64.24\bin\Debug\64.24.exe.config
+c:\users\user\source\repos\64.24\64.24\bin\Debug\64.24.exe
+c:\users\user\source\repos\64.24\64.24\bin\Debug\64.24.pdb
+c:\users\user\source\repos\64.24\64.24\obj\Debug\64.24.csprojAssemblyReference.cache
+c:\users\user\source\repos\64.24\64.24\obj\Debug\64.24.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\64.24\64.24\obj\Debug\64.24.exe
+c:\users\user\source\repos\64.24\64.24\obj\Debug\64.24.pdb
